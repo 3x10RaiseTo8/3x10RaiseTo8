@@ -9,7 +9,7 @@
 - Web development
 - Cloud Native development
 
-💻 *Web Development Tech Stack:*
+💻 *Web Tech Stack:*
 - Frontend: React.js, Next.js
 - Backend: FastAPI, Node.js (Express), Flask, Django
 - Database: PostgreSQL, MongoDB
