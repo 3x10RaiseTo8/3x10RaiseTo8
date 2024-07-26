@@ -1,11 +1,13 @@
 *Currently building AI SaaS;*
 [LINKEDIN](https://in.linkedin.com/in/abhishek7x/)
 
+---
+
 **Languages:** Python, JavaScript, Rust, Lua, C
 
 ---
 
-**Actively looking to collaborate. Reach out if:**
+**🟢Actively looking to collaborate!🟢 Reach out if:**
 1. you wanna build a Rust crate
 2. you have an idea
 3. you are a computational chemist
