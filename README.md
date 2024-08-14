@@ -7,11 +7,11 @@
 
 ---
 
-**🟢Actively looking to collaborate!🟢 Reach out if:**
-1. you wanna build a Rust crate
-2. you have an idea
-3. you are a computational chemist
-4. you wanna talk technology.
+**🟢Actively looking to collaborate!🟢 Reach out if you:**
+1. wanna build a Rust crate
+2. have an idea
+3. are a computational chemist
+4. wanna talk technology
 
 ---
 
